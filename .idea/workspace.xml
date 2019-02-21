@@ -2,8 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1951b343-c64b-4a71-ba50-756c60e55ee6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X073709d394bccbceead4fe460e6584a2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X092c2e63dfe90709525e149c9ebe00fe.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X094efdfc4cd199428623738669104535.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X0cab12682fa5c01225a8b44503a9d63f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X1855ddfa431d8b28113f13063c48e3b1.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X19b47e6f88a0f2311a77ef9acac9b684.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X36506e14e3ecca08b62fda9183d3f69d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X3a1258e18eef1e74dba7ea8e8f599396.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X3add33d594338338d894b69ec26ebf11.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X449d71936f5925492231bcbf2b2230f6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X471d2aaea7005353a6e2d55e5b05da0f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X4728420371f702cd685b86df90cd7fc6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X4966d35d1586538f6ed4d598770f7c7d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X4ae7d2b0b2503094bd392026497aa6c2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X4c1e2758b36e6d47b3aee0abda35e921.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X5019e99e0d9a5cc11b97d6e39047325f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X5248c9f500e289869b68c6d423ee3c0b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X591f8f5f8fd891a5341dd17a461a2944.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X5e38cd50a387ecbcf4e4658c325b272d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X6728cfda67232fbb156d80a6863f4a0c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X67684f20b338fbea63f326b5b2b6c1fc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X67cfadaabc900959b90fa750351d415f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X688e8550e38f08919bcb10cf973ea781.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X763bbf6300067e17ae8253da600aa5c4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X809ee0a3ff70d4f397a959aa89c149e2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X827ffddcbb7c793f6d0532233cffaf74.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X8398fd1019bcc38683233c16e2729086.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X8404a0ece6ef7f8e71a2a8b7650c9b56.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X844f810390017097d81d605fc3affdf8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X8517182b3257a441930c6e01ef1aa555.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X8f594b57b0fe93baf6f0a30030d1b2bc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X8fabad4530cbabd3619de30e48a0c136.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X8fdfc63e53e5c740d9e36032295a1844.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X90e66b280e84563eefbd202483701b37.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X93b4a0debea9589ae4653d579269a280.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X966ce900247dc4a902eb8554c3ce488c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X968f8e70f410242fd57bdc2467f4cad3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X9880efcdb62b374dfbf5fdc094d1849e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X9979f20d72e17dc89ed8144084fc0feb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X9b374d80452a9f25c8d9ca6f4c293e9f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X9b4d97d3bf1b9dc358b0ea3ed6f75a3e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X9c47c9198dfb2c73cf377b95b2d7892d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/X9cd865186124a278c40c61bf846a07b0.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xa6fbb9337a7b0016ed3e93aeb64501f5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xabb1419599386c3c48c37716a4677289.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xabed8aeb54128b676931192b97e59326.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xad81e3db052af2e78b9ae73ea49f1217.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xb260fe7c803c94d9fe3ba7a7c71ad3d3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xb5daa26675eb4efb7f8e0187db595f78.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xb988cdb83ed9570f2c86ffa165cff50b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xbb234634e5362aeaf6979e26c917548f.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xc06ba81a46751fb56cdb879be595e78e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xc08ddbd8bf3dd05a40065b3050afdddc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xc0c3d472f47f1747912b8e87f8569769.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xc65aec081777966d63d27d2ee103509a.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xcdad5370f2176a07c544bcd96f1255a2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xd68057ee95b9e9a815076f95a9373b87.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xd8a70cde5b9a245f07d8a27034ce32db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xdd658f94995e360efaa1159200ed4c14.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xdd677623cc442297cd141acb4700ca06.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xdeb4035bf91dec5cd0cdaff246b8839d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xdf1abcb41541a9a5dfe3cc65888ee737.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xe3a54ce3b14bdcb46110305ab4f8398d.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xe5cb23039efe6dc884612a31863c93ce.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xe6c10d4df4953c278b9b609ab243ae1c.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xea817cb577f9afd75f0fed8c522e9161.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xf6bb1dfa1a3d899db3d7f552cb9f3a28.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/storage/debugbar/Xfcd322296bdee758ff0c7421711c7d15.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +111,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
-              <folding>
-                <element signature="n#style#0;n#form#0;n#div#0;n#li#2;n#ul#1;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#form#0;n#div#0;n#li#3;n#ul#1;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#form#0;n#div#0;n#li#2;n#ul#1;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="609">
+              <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -312,7 +373,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6729000" />
+    <option name="totallyTimeSpent" value="6731000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -538,13 +599,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
-          <folding>
-            <element signature="n#style#0;n#form#0;n#div#0;n#li#2;n#ul#1;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#form#0;n#div#0;n#li#3;n#ul#1;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#form#0;n#div#0;n#li#2;n#ul#1;n#div#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="609">
+          <caret line="58" column="22" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
         </state>
       </provider>
     </entry>
